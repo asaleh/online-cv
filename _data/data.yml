@@ -10,11 +10,10 @@ sidebar:
     name: Ali Saleh
     tagline: Software Engineer Data & ML
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
     # Sidebar links
     email: ali[dot]ahmed[dot]saleh[at]gmail.com
     # phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    website: asaleh.github.io  #do not add http://
     linkedin: ali-saleh-67b62616
     github: asaleh
     # gitlab:
@@ -44,15 +43,12 @@ sidebar:
       - item: Connecting-dots
         link:
 
+      - item: watching sports (LFC & Lakers)
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a software engineer who is interested in working with data, with several years of experience in the software industry. I have a passion for attending to the details of what I'm doing. 
 education:
     - degree: M.Sc Intelligent Adaptive Systems
       university: Universität Hamburg
